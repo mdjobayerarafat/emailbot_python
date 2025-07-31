@@ -216,8 +216,30 @@ docs/build/
 
 # Package files
 *.tar.gz
-*.zip
 *.rar
+
+# Build and temporary installer files
+build/
+dist/
+*.exe.tmp
+*.msi.tmp
+temp_installer/
+
+# Keep organized installer output but exclude temporary files
+installer_output/**/temp/
+installer_output/**/*.tmp
+installer_output/**/*.log
+
+# Exclude large ZIP files from version control but keep structure
+# (Users should download from releases)
+installer_output/**/*.zip
+installer_output/**/*.exe
+installer_output/**/*.msi
+installer_output/**/*.py
+!installer_output/**/README.md
+!installer_output/**/*.bat
+!installer_output/**/*.wxs
+!installer_output/**/*.ps1
 
 # IDE specific
 *.swp
