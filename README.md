@@ -26,6 +26,41 @@
 - **⚙️ Settings** - Easy configuration of email accounts and application preferences
 - **🔒 Security** - Encrypted storage of email credentials with app password support
 
+## 📸 Application Demo
+
+<div align="center">
+
+### 🖥️ User Interface Screenshots
+
+*Click through the images to see different features of the Email Automation Bot*
+
+| Dashboard | Inbox Monitor | Email Sender |
+|-----------|---------------|---------------|
+| ![Dashboard](screenshorts/Screenshot%202025-08-01%20023008.png) | ![Inbox Monitor](screenshorts/Screenshot%202025-08-01%20023019.png) | ![Email Sender](screenshorts/Screenshot%202025-08-01%20023059.png) |
+| **Real-time system overview** | **Automatic email monitoring** | **Send individual or bulk emails** |
+
+| Scheduler | Templates | Settings |
+|-----------|-----------|----------|
+| ![Scheduler](screenshorts/Screenshot%202025-08-01%20023108.png) | ![Templates](screenshorts/Screenshot%202025-08-01%20023120.png) | ![Settings](screenshorts/Screenshot%202025-08-01%20023134.png) |
+| **Schedule emails for later** | **Manage email templates** | **Configure email accounts** |
+
+| Logs | Email Composition | Auto-Reply Setup |
+|------|-------------------|-------------------|
+| ![Logs](screenshorts/Screenshot%202025-08-01%20023144.png) | ![Email Composition](screenshorts/Screenshot%202025-08-01%20023203.png) | ![Auto-Reply](screenshorts/Screenshot%202025-08-01%20023212.png) |
+| **Track all activities** | **Rich text email editor** | **Set up automatic responses** |
+
+| Template Editor | Bulk Email | Advanced Features |
+|-----------------|------------|-------------------|
+| ![Template Editor](screenshorts/Screenshot%202025-08-01%20023223.png) | ![Bulk Email](screenshorts/Screenshot%202025-08-01%20023313.png) | ![Advanced](screenshorts/Screenshot%202025-08-01%20023323.png) |
+| **Create reusable templates** | **CSV import for campaigns** | **Advanced configuration** |
+
+| Login & Security |
+|------------------|
+| ![Login](screenshorts/Screenshot%202025-08-01%20023338.png) |
+| **Secure email authentication** |
+
+</div>
+
 ## 🚀 Quick Start
 
 ### Prerequisites
