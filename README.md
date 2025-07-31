@@ -166,12 +166,15 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Support
+## Repository
+- **GitHub Repository**: https://github.com/mdjobayerarafat/emailbot_python.git
+- **Documentation**: https://github.com/mdjobayerarafat/emailbot_python/blob/main/USER_GUIDE.md
 
+## Support
 For support and questions:
-1. Check the [User Guide](USER_GUIDE.md) for detailed instructions
-2. Review the Logs panel in the application for error messages
-3. Ensure your email provider settings are correct
+- Check the User Guide for detailed instructions
+- Review the Logs panel in the application for error messages
+- Ensure your email provider settings are correct
 
 ---
 

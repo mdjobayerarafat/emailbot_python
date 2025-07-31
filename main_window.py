@@ -921,15 +921,19 @@ Access the full User Guide from Help → User Guide for detailed instructions.
 - Secure session management
 - Safe backup and restore
 
-## Support
-For support and documentation:
-- Use Help → User Guide for detailed instructions
-- Check the Logs panel for troubleshooting
-- Verify email provider settings
-
-## Copyright
- © 2024 MD JOBAYER ARAFAT. All rights reserved.
- Built with ❤️ for email automation enthusiasts.
+## Repository
+ **GitHub**: https://github.com/mdjobayerarafat/emailbot_python.git
+ **Documentation**: https://github.com/mdjobayerarafat/emailbot_python/blob/main/USER_GUIDE.md
+ 
+ ## Support
+ For support and documentation:
+ - Use Help → User Guide for detailed instructions
+ - Check the Logs panel for troubleshooting
+ - Verify email provider settings
+ 
+ ## Copyright
+  © 2024 MD JOBAYER ARAFAT. All rights reserved.
+  Built with ❤️ for email automation enthusiasts.
         """
         
         text_edit.setPlainText(about_content)
