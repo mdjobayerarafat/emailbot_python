@@ -857,12 +857,12 @@ class SettingsPanel(QWidget):
         
         github_btn = QPushButton("🔗 GitHub Repository")
         github_btn.setObjectName("secondaryButton")
-        github_btn.clicked.connect(lambda: self.open_url("https://github.com/yourusername/email-automation-bot"))
+        github_btn.clicked.connect(lambda: self.open_url("https://github.com/mdjobayerarafat/emailbot_python"))
         links_layout.addWidget(github_btn)
         
         docs_btn = QPushButton("📚 Documentation")
         docs_btn.setObjectName("secondaryButton")
-        docs_btn.clicked.connect(lambda: self.open_url("https://github.com/yourusername/email-automation-bot/wiki"))
+        docs_btn.clicked.connect(lambda: self.open_url("https://github.com/mdjobayerarafat/emailbot_python/blob/main/USER_GUIDE.md"))
         links_layout.addWidget(docs_btn)
         
         layout.addWidget(links_group)
