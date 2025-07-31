@@ -1,9 +1,0 @@
-PyQt6>=6.4.0
-PyQt6-WebEngine>=6.4.0
-cryptography>=41.0.0
-APScheduler>=3.10.0
-PyInstaller>=5.13.0
-# Standard library modules (no need to install via pip):
-# sqlite3, imaplib, smtplib, email, csv, json, datetime
-# threading, os, sys, logging, re, base64, ssl, socket
-# time, typing, pathlib, functools, weakref
